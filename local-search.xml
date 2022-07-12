@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>文章内超链接文字</title>
+    <link href="/2022/07/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E6%96%87%E7%AB%A0%E5%86%85%E8%B6%85%E9%93%BE%E6%8E%A5%E6%96%87%E5%AD%97/"/>
+    <url>/2022/07/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E6%96%87%E7%AB%A0%E5%86%85%E8%B6%85%E9%93%BE%E6%8E%A5%E6%96%87%E5%AD%97/</url>
+    
+    <content type="html"><![CDATA[<h2 id="方法1"><a href="#方法1" class="headerlink" title="方法1"></a>方法1</h2><p>用指定的语法：[ 这里写文字 ]( 这里写目标网址 )</p><h2 id="方法2"><a href="#方法2" class="headerlink" title="方法2"></a>方法2</h2><p>使用typora</p><p>首先得退出代码模式<br>先打几个字<br>然后选中这几个字，点一下超链接，把要链接的网址放到括号里面去就行</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>markdown</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>基本技能</tag>
+      
+      <tag>文章内超链接文字</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>markdown格式笔记制作方法</title>
+    <link href="/2022/07/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%BB%93%E5%90%88/markdown%E6%A0%BC%E5%BC%8F%E7%AC%94%E8%AE%B0%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/"/>
+    <url>/2022/07/11/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E4%B8%8E%E4%B8%AA%E4%BA%BA%E5%AD%A6%E4%B9%A0%E7%BB%93%E5%90%88/markdown%E6%A0%BC%E5%BC%8F%E7%AC%94%E8%AE%B0%E5%88%B6%E4%BD%9C%E6%96%B9%E6%B3%95/</url>
+    
+    <content type="html"><![CDATA[<h1 id="本文目的"><a href="#本文目的" class="headerlink" title="#本文目的"></a>#本文目的</h1><h2 id="1、学习基础的markdown使用方法"><a href="#1、学习基础的markdown使用方法" class="headerlink" title="1、学习基础的markdown使用方法"></a>1、学习基础的markdown使用方法</h2><p>​这个当然是写博客必学的啦。</p><h2 id="2、将博客更高效运用于学习中"><a href="#2、将博客更高效运用于学习中" class="headerlink" title="2、将博客更高效运用于学习中"></a>2、将博客更高效运用于学习中</h2><p>​因为我自己之前是先听一遍课，然后再去看回放，整理一遍笔记，太浪费时间了，现在就想着，我做的过程中，直接用typora做笔记，然后稍加修改就可以放到博客中，就时间而言，起码提高了一倍的学习效率。</p><hr><h1 id="markdown编辑器"><a href="#markdown编辑器" class="headerlink" title="#markdown编辑器"></a>#markdown编辑器</h1><p>​这个我选了比较热门的markdown编辑器——typora，安装教程B站上很多了，随时可查，就不放链接了。</p><h1 id="基础教程"><a href="#基础教程" class="headerlink" title="基础教程"></a>基础教程</h1><p>引用：<a href="https://www.bilibili.com/read/cv6491991">教程地址</a></p><p>&#x3D;&#x3D;（1）标题&#x3D;&#x3D;</p><h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="四级标题"><a href="#四级标题" class="headerlink" title="四级标题"></a>四级标题</h4><h5 id="五级标题"><a href="#五级标题" class="headerlink" title="五级标题"></a>五级标题</h5><h6 id="六级标题"><a href="#六级标题" class="headerlink" title="六级标题"></a>六级标题</h6><p>&#x3D;&#x3D;（2）字体&#x3D;&#x3D;</p><p><strong>加粗</strong></p><p><em>斜体</em></p><p><em><strong>斜体加粗</strong></em></p><p><del>删除线</del></p><p>&#x3D;&#x3D;高亮&#x3D;&#x3D;</p><p>我是^上标^</p><p>我是<del>下标</del></p><p>&#x3D;&#x3D;（3）列表&#x3D;&#x3D;</p><ul><li><p>一二三四五</p><ul><li><p>上山打老虎</p><ul><li><p>老虎没打到</p><ul><li>打到小松鼠</li></ul></li></ul></li></ul></li></ul><ol><li><p>一二三四五</p></li><li><p>上山打老虎</p></li><li><p>老虎没打到</p></li><li><p>打到小松鼠</p></li></ol><p>&#x3D;&#x3D;（4）表格&#x3D;&#x3D;</p><p>| Mon    | TUE    | WED    | THU    | FRI    |</p><p>| —— | —— | —— | —— | —— |</p><p>| 上山   | 上山   | 上山   | 上山   | 上山   |</p><p>| 打老虎 | 打老虎 | 打老虎 | 打老虎 | 打老虎 |</p><p>&#x3D;&#x3D;（5）引用&#x3D;&#x3D;</p><blockquote><p>一二三四五</p></blockquote><blockquote><blockquote><p>上山打老虎</p></blockquote></blockquote><blockquote><blockquote><blockquote><p>老虎没打到</p></blockquote></blockquote></blockquote><blockquote><blockquote><blockquote><blockquote><p>打到小松鼠</p></blockquote></blockquote></blockquote></blockquote><p>&#x3D;&#x3D;（6）分割线&#x3D;&#x3D;</p><hr><p>&#x3D;&#x3D;（7）代码&#x3D;&#x3D;</p><p><code>我是代码</code></p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs"><br>我是代码框<br><br></code></pre></td></tr></table></figure><figure class="highlight gherkin"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br><span class="line">46</span><br><span class="line">47</span><br><span class="line">48</span><br><span class="line">49</span><br><span class="line">50</span><br><span class="line">51</span><br><span class="line">52</span><br><span class="line">53</span><br><span class="line">54</span><br><span class="line">55</span><br><span class="line">56</span><br><span class="line">57</span><br><span class="line">58</span><br><span class="line">59</span><br><span class="line">60</span><br><span class="line">61</span><br><span class="line">62</span><br><span class="line">63</span><br><span class="line">64</span><br><span class="line">65</span><br><span class="line">66</span><br><span class="line">67</span><br><span class="line">68</span><br><span class="line">69</span><br><span class="line">70</span><br><span class="line">71</span><br><span class="line">72</span><br><span class="line">73</span><br><span class="line">74</span><br><span class="line">75</span><br><span class="line">76</span><br><span class="line">77</span><br><span class="line">78</span><br><span class="line">79</span><br><span class="line">80</span><br><span class="line">81</span><br><span class="line">82</span><br><span class="line">83</span><br></pre></td><td class="code"><pre><code class="hljs gherkin">==（1）标题==<br><br><span class="hljs-comment"># 一级标题</span><br><br><span class="hljs-comment">## 二级标题</span><br><br><span class="hljs-comment">### 三级标题</span><br><br><span class="hljs-comment">#### 四级标题</span><br><br><span class="hljs-comment">##### 五级标题</span><br><br><span class="hljs-comment">###### 六级标题</span><br><br>==（2）字体==<br><br><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span>加粗<span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><br><br><span class="hljs-symbol">*</span>斜体<span class="hljs-symbol">*</span><br><br><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span>斜体加粗<span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><br><br>~~删除线~~<br><br>==高亮==<br><br>我是^上标^<br><br>我是~下标~<br><br>==（3）列表==<br><br>+ 一二三四五<br><br>  + 上山打老虎<br><br>    + 老虎没打到<br><br>      + 打到小松鼠<br><br>1. 一二三四五<br><br>2. 上山打老虎<br><br>3. 老虎没打到<br><br>4. 打到小松鼠<br><br>==（4）表格==<br><br>|<span class="hljs-string"> Mon    </span>|<span class="hljs-string"> TUE    </span>|<span class="hljs-string"> WED    </span>|<span class="hljs-string"> THU    </span>|<span class="hljs-string"> FRI    </span>|<br><br>|<span class="hljs-string"> ------ </span>|<span class="hljs-string"> ------ </span>|<span class="hljs-string"> ------ </span>|<span class="hljs-string"> ------ </span>|<span class="hljs-string"> ------ </span>|<br><br>|<span class="hljs-string"> 上山   </span>|<span class="hljs-string"> 上山   </span>|<span class="hljs-string"> 上山   </span>|<span class="hljs-string"> 上山   </span>|<span class="hljs-string"> 上山   </span>|<br><br>|<span class="hljs-string"> 打老虎 </span>|<span class="hljs-string"> 打老虎 </span>|<span class="hljs-string"> 打老虎 </span>|<span class="hljs-string"> 打老虎 </span>|<span class="hljs-string"> 打老虎 </span>|<br><br>==（5）引用==<br><br>&gt;一二三四五<br><br>&gt;&gt;上山打老虎<br><br>&gt;&gt;&gt;老虎没打到<br><br>&gt;&gt;&gt;&gt;打到小松鼠<br><br>==（6）分割线==<br><br>---------------------<br><br>==（7）代码==<br><br>`我是代码`<br><br><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span>```<span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><br><br>我是代码框<br><br><span class="hljs-symbol">*</span><span class="hljs-symbol">*</span>```<span class="hljs-symbol">*</span><span class="hljs-symbol">*</span><br><br><br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>markdown</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>与个人学习结合</tag>
+      
+      <tag>markdown格式笔记制作方法</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>gh301应用方案搜集</title>
+    <link href="/2022/07/09/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/gh301%E5%BA%94%E7%94%A8%E6%96%B9%E6%A1%88%E6%90%9C%E9%9B%86/"/>
+    <url>/2022/07/09/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/gh301%E5%BA%94%E7%94%A8%E6%96%B9%E6%A1%88%E6%90%9C%E9%9B%86/</url>
+    
+    <content type="html"><![CDATA[<p>#背景</p><p><img src="/2022/07/09/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/gh301%E5%BA%94%E7%94%A8%E6%96%B9%E6%A1%88%E6%90%9C%E9%9B%86/1.png"><br><img src="/2022/07/09/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/gh301%E5%BA%94%E7%94%A8%E6%96%B9%E6%A1%88%E6%90%9C%E9%9B%86/2.jpg"></p><p>前段时间不是和工程师说gh301这个模块能检测运动心率嘛，现在工程师让我找一下现有的应用方案。</p><p>本次需要搜集的资料：<br>1、GH301应用实例<br>2、GH301使用手册（寄存器什么的）<br>3、G-Sensor</p><hr><p>立创商城链接<br><a href="https://item.szlcsc.com/2772405.html">https://item.szlcsc.com/2772405.html</a></p><p>汇顶科技开发者社区<br><a href="https://developers.goodix.com/zh/">https://developers.goodix.com/zh/</a></p><hr><p>G-sensor<br>百度了一下，好像指的是加速度传感器</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>实践板块</category>
+      
+      <category>自适应拉力器</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>自适应拉力器</tag>
+      
+      <tag>运动心率传感器</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>PCB封装库设计</title>
+    <link href="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/"/>
+    <url>/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/</url>
+    
+    <content type="html"><![CDATA[<p>##PCB封装库设计</p><p>用到的是OrCAD Library Builder<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/1.png"><br>这个软件的用途：导出现成的封装给Allegro用</p><p>打开之后，能看到有这几种新建封装的方式<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/2.png"><br>第一种是从pdf中导入<br>第二种Footprint就是单纯建立一个封装</p><p>我们选择第二种方式，进来之后可以看到许多常规的连接器。包括很多常见的标准封装，这里面都有。<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/3.png"></p><p>以SOT223为例，下图为打开后的界面<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/PCB%E5%B0%81%E8%A3%85%E5%BA%93%E8%AE%BE%E8%AE%A1/4.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>cadence</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>cadence</tag>
+      
+      <tag>听课笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Allegro软件界面介绍</title>
+    <link href="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/"/>
+    <url>/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/</url>
+    
+    <content type="html"><![CDATA[<p>#Allegro软件界面介绍</p><p>这个软件干什么用的？<br>答：capture画原理图，Allegro画PCB。两个其实是一个软件里的东西，被分成两个图标了而已。在立创EDA里画原理图和画PCB都是在一个软件中完成的。</p><hr><p>##打开方式</p><p>双击图标<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/1.png"></p><p><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/2.png"><br>有非常多的选项，通常用第一个或者第二个<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/3.png"><br>选中之后，下面那栏有很多可选的功能，为了方便，一般将底下那栏“use as default”勾选上，那以后如何进行修改呢？<br>答：在file–change editor中进行修改<br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/4.png"><br><img src="/2022/07/04/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/Allegro%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2%E4%BB%8B%E7%BB%8D/5.png"></p><p>到时候打开的文件类型是brd文件，挖个坑，以后再写具体的操作，本篇就说一下界面，大致介绍。<br>（其实是自己没现成文件，不好演示）</p><hr><p>有点晚了，先休息，明天接着写</p><p>未完待续… …</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>cadence</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>cadence</tag>
+      
+      <tag>听课笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>原理图库设计</title>
+    <link href="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/"/>
+    <url>/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/</url>
+    
+    <content type="html"><![CDATA[<p>#原理图库设计</p><blockquote><p>本文涉及：<br>    1、建库的两个方式<br>    2、库文件器件的转换</p></blockquote><blockquote><p>注：cadence版本号 16.6</p></blockquote><hr><p>##1、建库的两个方式</p><p>首先打开capture cis，选择file–new–library<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/3.png"><br>出现如下界面<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/1.png"></p><p>开始前，移动文件位置<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/4.png"></p><blockquote><p>方式1：</p></blockquote><p>右键，选择new part<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/2.png"></p><p>Name填写名字，PCB Footprint填写封装名<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/5.png"><br>点ok即可<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/6.png"></p><p>点击place rectangle<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/7.png"></p><p>画个方框<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/8.png"><br>当然，不止是方框，比如运算放大器就可以画成三角形，只需要把方框删了重新一根一根连线即可。<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/9.png"></p><p>放置引脚<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/10.png"><br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/11.png"><br>name随便填，number的话就是编号，并不是说同时出来几个引脚的意思。<br>比如如下设置<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/13.png"><br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/14.png"></p><p>数量的话，需要的话可以一直放置，软件会对引脚自动编号<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/12.png"></p><p>shape设置<br>这个就是设置线的种类，按实际需求来<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/15.png"></p><p>type设置<br>严谨的话按实际需求来，图方便的话直接全设置passive就行<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/11.png"></p><blockquote><p>方式2</p></blockquote><p>导入表格，自动生成<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/17.png"><br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/18.png"></p><p>名字随便取，前两列为导入内容，以下随意输入4个引脚进行示范<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/19.png"></p><p>type的话选一列，全输passive就行<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/20.png"></p><p>shape选自己喜欢的就行，line或是short都行<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/21.png"></p><p>group和position不用填<br>section的话是看“No. of section”这一栏中填的数字，如果像那种有好几百个引脚的，就需要分成好几个section，填1的话，在section这一栏中就只能填A<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/22.png"><br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/23.png"></p><p>为了演示，我再新建几个管脚<br>把这一栏设成2，可以看到现在就可以选A，B两个选项了<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/24.png"></p><p>漏了一个，position其实是需要设置的，全填left就行，之后根据引脚的属性自行调整<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/27.png"></p><p>设置结果如图，warning不用管<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/25.png"><br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/26.png"><br>创建成功后，就会出现<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/28.png"></p><p><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/29.png"><br>关于section，快捷键按“ctrl+N”或者“ctrl+B”就可以切换上一片和下一片<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/30.png"><br>这个在放置元件的时候会体现出来<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/31.png"></p><p>既然提到放置元件了，那么讲讲如何放置<br>place–part<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/32.png"><br>选择自己创建的原理图库，最右边会出现part list，在里面选择自己画的元件即可<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/33.png"></p><hr><p>##2、库文件器件的转换</p><p>以ADI为例，进到他的官网，搜4644，在设计资源中找到原理图符号和PCB封装<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/34.png"><br>点进去<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/35.png"><br>可以选择直接下载</p><p>接下来提到的转换软件Ultra Librarian Reader的下载链接<br><a href="https://www.ultralibrarian.com/products/free-reader/">https://www.ultralibrarian.com/products/free-reader/</a><br>也有<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/36.png"></p><p>转换方法<br>1、在官网下载bxl类型文件<br>2、打开软件<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/37.png"><br>按上面写的顺序一步一步来就行，选好版本，导出<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/39.png"></p><p>在candence中导入，import design<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/40.png"></p><p>选择edif，选到对应文件导入即可<br><img src="/2022/07/01/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E5%90%AC%E8%AF%BE%E7%AC%94%E8%AE%B0/%E5%8E%9F%E7%90%86%E5%9B%BE%E5%BA%93%E8%AE%BE%E8%AE%A1/41.png"></p><hr><p>end<br>感谢阅读</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>cadence</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>cadence</tag>
+      
+      <tag>听课笔记</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Linux文件系统类型</title>
+    <link href="/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/"/>
+    <url>/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>这篇主要是Linux下对文件夹进行的操作</p></blockquote><p>Linux自带的文件系统，最新一代到了ext4，之前还有ext3，ext2<br>当然，Linux也能兼容别的文件类型，比如Windows中的FAT和NFS<br>查询当前磁盘挂载的文件系统：df -T -h</p><p>Linux的根目录就是 <strong>&#x2F;</strong><br>但是用户的根目录和Linux的根目录并不相同，以我的电脑为例，我的用户根目录是 <strong>&#x2F;home&#x2F;zhang</strong><br>可以看到根目录下的文件，即为“计算机”文件夹中的文件<br><img src="/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/1.png"><br><img src="/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/2.png"></p><p>但是，当我输入“cd ~”，再按ls，出现的并非原来的那些内容<br>做个对比<br><img src="/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/3.png"><br>此时ls查看的其实是用户目录下的文件，也就是这个主目录下的文件<br><img src="/2022/06/30/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/Linux%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9E%8B/4.png"></p><blockquote><p>一些文件操作命令</p></blockquote><p>1、创建新文件命令</p><blockquote><p>touch           [参数]      [文件名]</p></blockquote>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>Linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Linux</tag>
+      
+      <tag>基础知识</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>cadence17.4按z打不开 cis explorer的问题</title>
+    <link href="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E8%BD%AF%E4%BB%B6%E8%87%AA%E8%BA%AB%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/cadence17-4%E6%8C%89z%E6%89%93%E4%B8%8D%E5%BC%80-cis-explorer%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    <url>/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E8%BD%AF%E4%BB%B6%E8%87%AA%E8%BA%AB%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/cadence17-4%E6%8C%89z%E6%89%93%E4%B8%8D%E5%BC%80-cis-explorer%E7%9A%84%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<p>#问题描述</p><blockquote><p>晚上跟着上课，学cadence。<br>老师用快捷键z，一键调出了cis explorer，我的小伙伴也成功调出，但是我的17.4版的cadence却无法调出此界面。<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E8%BD%AF%E4%BB%B6%E8%87%AA%E8%BA%AB%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/cadence17-4%E6%8C%89z%E6%89%93%E4%B8%8D%E5%BC%80-cis-explorer%E7%9A%84%E9%97%AE%E9%A2%98/1.png"></p></blockquote><hr><p>##着手解决</p><p>网上搜到一篇解决方法，链接：<a href="https://blog.csdn.net/LostSpeed/article/details/123656535">https://blog.csdn.net/LostSpeed/article/details/123656535</a><br>准备按着这个走一遍，看看疗效</p><p>尴尬，这篇文章好像并没有说解决方法，只是写了他是怎么配置的，我现在换了个搜法“cis explorer灰色”，好像出来挺多</p><p><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E8%BD%AF%E4%BB%B6%E8%87%AA%E8%BA%AB%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/cadence17-4%E6%8C%89z%E6%89%93%E4%B8%8D%E5%BC%80-cis-explorer%E7%9A%84%E9%97%AE%E9%A2%98/2.png"></p><hr><p>#未完待续</p><p>整不会，准备装一个老师给的版本，十一点半了，明天再弄。</p><hr><p>#20220630最新进展<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/cadence/%E8%BD%AF%E4%BB%B6%E8%87%AA%E8%BA%AB%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/cadence17-4%E6%8C%89z%E6%89%93%E4%B8%8D%E5%BC%80-cis-explorer%E7%9A%84%E9%97%AE%E9%A2%98/3.png"><br>直接重新下16.6版本，可以正确打开了，舒服，睡觉去了。</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>cadence</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>cadence</tag>
+      
+      <tag>软件自身问题解决</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>调整图片位置</title>
+    <link href="/2022/06/28/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E8%B0%83%E6%95%B4%E5%9B%BE%E7%89%87%E4%BD%8D%E7%BD%AE/"/>
+    <url>/2022/06/28/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E8%B0%83%E6%95%B4%E5%9B%BE%E7%89%87%E4%BD%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>调整图片大小</title>
+    <link href="/2022/06/28/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E8%B0%83%E6%95%B4%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/"/>
+    <url>/2022/06/28/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/markdown/%E5%9F%BA%E6%9C%AC%E6%8A%80%E8%83%BD/%E8%B0%83%E6%95%B4%E5%9B%BE%E7%89%87%E5%A4%A7%E5%B0%8F/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>VIM编辑器的基本使用</title>
+    <link href="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/"/>
+    <url>/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/</url>
+    
+    <content type="html"><![CDATA[<p>#安装</p><p>sudo apt-get install vim</p><hr><p>#创建</p><p>vim test.text<br>然后就会跳转到如下界面<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/1.png"></p><p>按“a”即可输入，左下角会显示“插入”<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/2.png"></p><hr><p>#保存</p><p>这个时候按ctrl+S并非保存，而是暂停终端，但此时输入都是会被保留的，在按ctrl+Q之后，这期间输入的内容都会被显示出来，终端也恢复正常。</p><p>那么如何保存呢？<br>1、按esc<br>2、（注意要切成英文输入）输入 <strong>：</strong><br>3、之后跟不同的指令，常用的有</p><p>x   保存当前文档并且退出<br>q   退出<br>w   保存文档<br>q！ 退出VIM，不保存文档</p><p>保存完后就退回到最开始的界面<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/3.png"></p><p>主文件夹出现保存的文件<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/4.png"></p><hr><p>#如何搜索</p><p>在最外层的时候按“&#x2F;”<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/5.png"></p><p>把要搜的内容输进去就行<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/6.png"></p><p>注：如何再次打开之前的文件，继续使用vim进行编辑<br>直接“vim ‘文件名’”即可<br><img src="/2022/06/28/%E5%AD%A6%E4%B9%A0%E6%9D%BF%E5%9D%97/Linux/VIM%E7%BC%96%E8%BE%91%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/7.png"></p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习板块</category>
+      
+      <category>Linux</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>Linux</tag>
+      
+      <tag>vim</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>分类测试</title>
+    <link href="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%88%86%E7%B1%BB/%E5%90%8E%E5%8F%B0%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%88%86%E7%B1%BB/%E5%90%8E%E5%8F%B0%E5%88%86%E7%B1%BB%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<p>#测试</p><p>这篇是看改动文件位置后，hexo博客是否还能识别出文件。</p><p>目的：便于自己在本地对文件进行整理。</p><hr><p>#测试结果：可以</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>分类</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>分类</tag>
+      
+      <tag>后台分类测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>标签使用功能说明</title>
+    <link href="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%A0%87%E7%AD%BE/%E6%A0%87%E7%AD%BE%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/"/>
+    <url>/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%A0%87%E7%AD%BE/%E6%A0%87%E7%AD%BE%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/</url>
+    
+    <content type="html"><![CDATA[<p>#标签使用</p><p><img src="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%A0%87%E7%AD%BE/%E6%A0%87%E7%AD%BE%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E4%BB%A3%E7%A0%81.png"><br><img src="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%A0%87%E7%AD%BE/%E6%A0%87%E7%AD%BE%E4%BD%BF%E7%94%A8%E5%8A%9F%E8%83%BD%E8%AF%B4%E6%98%8E/%E6%A0%87%E7%AD%BE.png"></p><p>如图<br>第一行为：<br><strong>tags</strong>（大类，项目名字）<br><strong>categories</strong>（大类，小类）</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>标签</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>标签</tag>
+      
+      <tag>标签使用</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>插图片测试</title>
+    <link href="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%9B%BE%E7%89%87/%E6%8F%92%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <url>/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%9B%BE%E7%89%87/%E6%8F%92%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</url>
+    
+    <content type="html"><![CDATA[<p>##插图片功能测试</p><p><img src="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%9B%BE%E7%89%87/%E6%8F%92%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/test.png"></p><hr><p>##教程在此</p><p><a href="https://www.bilibili.com/read/cv12633102">https://www.bilibili.com/read/cv12633102</a></p><hr><p>##使用方法</p><p>安装好插件后，把图片放到对应文件夹即可</p><p>![](图片全称)</p><p>就可以了</p><p>这里多一嘴，如果不想触发代码的特殊功能的话，加反斜杠即可，就像这样</p><p><img src="/2022/06/27/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E5%9B%BE%E7%89%87/%E6%8F%92%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/%E5%8F%8D%E6%96%9C%E6%9D%A0.png"></p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>图片</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>图片</tag>
+      
+      <tag>插图片功能测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>运动心率传感器</title>
+    <link href="/2022/06/24/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/%E8%BF%90%E5%8A%A8%E5%BF%83%E7%8E%87%E4%BC%A0%E6%84%9F%E5%99%A8/"/>
+    <url>/2022/06/24/%E5%AE%9E%E8%B7%B5%E6%9D%BF%E5%9D%97/%E8%87%AA%E9%80%82%E5%BA%94%E6%8B%89%E5%8A%9B%E5%99%A8/%E8%BF%90%E5%8A%A8%E5%BF%83%E7%8E%87%E4%BC%A0%E6%84%9F%E5%99%A8/</url>
+    
+    <content type="html"><![CDATA[<p>##运动心率传感器</p><p>今天工程师找我，说原来选的MKB0805心率血压模块并不能用于检测运动心率，于是在hjy的建议下，我去搜了市面上手环的供应商。</p><p>找了小米手环的供应商————汇顶科技，用他的GH301心率模块，链接放在下面了，图片暂时我没搞明白怎么插，后面再修改好了。（分类暂时也没搞懂怎么弄）</p><hr><p>##链接</p><p>汇顶科技GH301链接<br><a href="https://product.goodix.com/zh/product/gh301">https://product.goodix.com/zh/product/gh301</a></p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>实践板块</category>
+      
+      <category>自适应拉力器</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>自适应拉力器</tag>
+      
+      <tag>运动心率传感器</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>欢迎界面</title>
+    <link href="/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%AC%A2%E8%BF%8E/%E6%AC%A2%E8%BF%8E%E7%95%8C%E9%9D%A2/"/>
+    <url>/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E6%AC%A2%E8%BF%8E/%E6%AC%A2%E8%BF%8E%E7%95%8C%E9%9D%A2/</url>
+    
+    <content type="html"><![CDATA[<p>##欢迎第一批访客！！！</p><p>页面简陋</p><p>以后慢慢完善</p><p>在这里我将记录技术细节</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>欢迎界面</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>欢迎界面</tag>
+      
+      <tag>欢迎</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一篇博客文章</title>
+    <link href="/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E7%BA%AA%E5%BF%B5/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/"/>
+    <url>/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/%E7%BA%AA%E5%BF%B5/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0/</url>
+    
+    <content type="html"><![CDATA[<p>##第一章</p><p>测试内容</p><hr><p>##第二章</p><p>内容</p><hr><p>##测试完毕</p><p>感谢codesheep！！！</p><hr>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>纪念</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>纪念</tag>
+      
+      <tag>我的第一篇博客文章</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/hello-world/hello-world/"/>
+    <url>/2022/06/23/%E5%8D%9A%E5%AE%A2%E6%B5%8B%E8%AF%95%E5%8C%BA/hello-world/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>博客测试区</category>
+      
+      <category>hello-world</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>使用说明</tag>
+      
+      <tag>hello-world</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
